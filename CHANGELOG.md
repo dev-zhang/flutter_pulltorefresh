@@ -1,3 +1,8 @@
+## 3.0.2
+### Migration
+* Migrated to Flutter 3.0
+* Removed ! from WidgetsBinding.instance
+
 ## 2.0.0
 ### Breaking Changes:
 * Remove onOffsetChange in SmartRefresher,autoLoad in RefreshConfiguration,scrollController in RefreshController
